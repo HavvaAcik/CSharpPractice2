@@ -1,0 +1,8 @@
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\bin\Debug\02.variables.exe.config
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\bin\Debug\02.variables.exe
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\bin\Debug\02.variables.pdb
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\obj\Debug\02.variables.exe
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\obj\Debug\02.variables.pdb
+C:\Users\acikh\source\repos\CSharpTemelleri\02.variables\obj\Debug\02.variables.exe.config

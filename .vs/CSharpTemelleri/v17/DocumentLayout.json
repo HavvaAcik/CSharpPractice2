@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AB5C07-A0E4-4186-BCA3-C3E2BF3F23E5}|07_foreach\\07_foreach.csproj|c:\\users\\acikh\\source\\repos\\csharptemelleri\\07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AB5C07-A0E4-4186-BCA3-C3E2BF3F23E5}|07_foreach\\07_foreach.csproj|solutionrelative:07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\07_foreach\\Program.cs",
+              "RelativeDocumentMoniker": "07_foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\07_foreach\\Program.cs",
+              "RelativeToolTip": "07_foreach\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:28:15.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
