@@ -1,0 +1,8 @@
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\bin\Debug\07_foreach.exe.config
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\bin\Debug\07_foreach.exe
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\bin\Debug\07_foreach.pdb
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\obj\Debug\07_foreach.csproj.AssemblyReference.cache
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\obj\Debug\07_foreach.csproj.CoreCompileInputs.cache
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\obj\Debug\07_foreach.exe
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\obj\Debug\07_foreach.pdb
+C:\Users\acikh\source\repos\CSharpTemelleri\07_foreach\obj\Debug\07_foreach.exe.config

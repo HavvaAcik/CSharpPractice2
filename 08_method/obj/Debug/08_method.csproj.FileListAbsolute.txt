@@ -1,0 +1,8 @@
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\bin\Debug\08_method.exe.config
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\bin\Debug\08_method.exe
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\bin\Debug\08_method.pdb
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\obj\Debug\08_method.csproj.AssemblyReference.cache
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\obj\Debug\08_method.csproj.CoreCompileInputs.cache
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\obj\Debug\08_method.exe
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\obj\Debug\08_method.pdb
+C:\Users\acikh\source\repos\CSharpTemelleri\08_method\obj\Debug\08_method.exe.config

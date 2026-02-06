@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4E1A460-EED0-4069-AF47-73F2C85415AD}|10_DatabaseCrud\\10_DatabaseCrud.csproj|c:\\users\\acikh\\source\\repos\\csharptemelleri\\10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E1A460-EED0-4069-AF47-73F2C85415AD}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81392DC2-5679-4624-A8E9-E1AF9F1145EA}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\acikh\\source\\repos\\csharptemelleri\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81392DC2-5679-4624-A8E9-E1AF9F1145EA}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F6711C-345C-41F0-BA78-2E7188F0FCA9}|08_method\\08_method.csproj|c:\\users\\acikh\\source\\repos\\csharptemelleri\\08_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F6711C-345C-41F0-BA78-2E7188F0FCA9}|08_method\\08_method.csproj|solutionrelative:08_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2AB5C07-A0E4-4186-BCA3-C3E2BF3F23E5}|07_foreach\\07_foreach.csproj|c:\\users\\acikh\\source\\repos\\csharptemelleri\\07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2AB5C07-A0E4-4186-BCA3-C3E2BF3F23E5}|07_foreach\\07_foreach.csproj|solutionrelative:07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\10_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\10_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:09:03.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:38:57.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\08_method\\Program.cs",
+              "RelativeDocumentMoniker": "08_method\\Program.cs",
+              "ToolTip": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\08_method\\Program.cs",
+              "RelativeToolTip": "08_method\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:40:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\07_foreach\\Program.cs",
               "RelativeDocumentMoniker": "07_foreach\\Program.cs",
               "ToolTip": "C:\\Users\\acikh\\source\\repos\\CSharpTemelleri\\07_foreach\\Program.cs",
               "RelativeToolTip": "07_foreach\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T11:28:15.885Z",
               "EditorCaption": ""
